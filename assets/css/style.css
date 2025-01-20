@@ -249,6 +249,7 @@ section {
     gap: 2rem;
     max-width: 1200px;
     margin: 0 auto;
+    color: var(--accent-color);
 }
 
 .project-card {
