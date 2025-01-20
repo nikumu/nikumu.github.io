@@ -1,1 +1,1 @@
-https://nikumu.github.io/portfolio/
+https://nikumu.github.io/
